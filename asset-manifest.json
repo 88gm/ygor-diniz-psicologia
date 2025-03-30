@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ygor-diniz-psicologia/static/css/main.31d6cfe0.css",
-    "main.js": "/ygor-diniz-psicologia/static/js/main.c87c6a4e.js",
-    "static/js/453.c0bb404c.chunk.js": "/ygor-diniz-psicologia/static/js/453.c0bb404c.chunk.js",
-    "index.html": "/ygor-diniz-psicologia/index.html",
-    "main.c87c6a4e.js.map": "/ygor-diniz-psicologia/static/js/main.c87c6a4e.js.map",
-    "453.c0bb404c.chunk.js.map": "/ygor-diniz-psicologia/static/js/453.c0bb404c.chunk.js.map"
+    "main.css": "/ygor-psi/static/css/main.31d6cfe0.css",
+    "main.js": "/ygor-psi/static/js/main.029a1bc9.js",
+    "static/js/453.c0bb404c.chunk.js": "/ygor-psi/static/js/453.c0bb404c.chunk.js",
+    "index.html": "/ygor-psi/index.html",
+    "main.029a1bc9.js.map": "/ygor-psi/static/js/main.029a1bc9.js.map",
+    "453.c0bb404c.chunk.js.map": "/ygor-psi/static/js/453.c0bb404c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.c87c6a4e.js"
+    "static/js/main.029a1bc9.js"
   ]
 }
